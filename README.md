@@ -35,6 +35,9 @@ No installation needed – just open the `index.html` file in your browser.
 git clone https://github.com/Baraajad231/personal-website.git
 
 # open index.html with your browser
+
+
+
 📸 Screenshots
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e26e60f9-395e-43c3-b593-6413c57f79e4" />
