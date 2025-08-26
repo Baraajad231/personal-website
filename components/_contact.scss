@@ -1,0 +1,60 @@
+@import "./mixin";
+
+.contact {
+  @include twoColumns($column-gap: 20rem, $row-gap: 0);
+
+  align-items: center;
+}
+.contact__description {
+  font-size: var(--font-size-20);
+  line-height: 1.9;
+}
+.contact__email {
+  margin: 2.5rem 0;
+  font-weight: var(--font-weight-bold);
+}
+.contact__socials {
+  display: flex;
+  gap: 1rem;
+}
+.contact__social {
+  transition: var(--transition-timing);
+}
+.contact__social:hover {
+  transform: scale(1.2);
+  /* border-radius: 50%;
+  box-shadow: 0 0 2rem rgba(6, 214, 211, 0.7), 0 0 3rem rgba(255, 213, 0, 0.5); */
+}
+
+.contact__inputs {
+  display: flex;
+  gap: 3rem;
+}
+
+.contact__input {
+  border: 0;
+  outline: 0; /*خاصة بالحدود الخارجية تاعت الصندوق*/
+  background: transparent;
+  border-bottom: 0.1rem solid var(--color-input-border);
+  flex: 1;
+}
+
+.contact__textarea {
+  width: 100%;
+  margin-top: 4rem;
+}
+
+.contact__button {
+  background-color: var(--color-link-bg);
+  color: var(--color-white);
+  padding: 1.7rem 1.8rem;
+  font-weight: var(--font-weight-medium);
+  font-size: var(--font-size-24);
+  margin-top: 3.4rem;
+}
+
+form:invalid::after {
+  content: "*";
+  font-size: var(--font-size-38);
+  color: var(--color-red);
+}
