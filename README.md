@@ -26,19 +26,19 @@ In my journey of learning Frontend with **Al-Madrasa platform**, I built this pe
 - **SASS**
 
 ---
-##📸 Screenshots
+## 📸 Screenshots
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e26e60f9-395e-43c3-b593-6413c57f79e4" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3f21f49-d0d2-4c70-b05e-d6152dd12bbb" />
 
 ---
-##🌍 Live Demo
+## 🌍 Live Demo
 
 If you hosted the website (e.g., on GitHub Pages), add the link here:
 👉 Live Preview
 
 ---
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
 Add more interactive animations ✨
 
