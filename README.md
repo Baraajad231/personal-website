@@ -34,8 +34,7 @@ In my journey of learning Frontend with **Al-Madrasa platform**, I built this pe
 ---
 ## 🌍 Live Demo
 
-If you hosted the website (e.g., on GitHub Pages), add the link here:
-👉 Live Preview
+👉  https://baraajad231.github.io/personal-website/
 
 ---
 ## 🔮 Future Improvements
